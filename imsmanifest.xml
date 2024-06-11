@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5fDrCG4AWJw_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Pupil Reflex</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Pupil_Reflex_ORG">
+    <organization identifier="Pupil_Reflex_ORG">
+      <title>Pupil Reflex</title>
+      <item identifier="The_Eye_SCO" isvisible="true" identifierref="__5fDrCG4AWJw_course_id_RES">
+        <title>Pupil Reflex</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5fDrCG4AWJw_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ZpVXpDfodh_80_B30_P_94_80_431_253_DX1250_DY1250_CX431_CY253.png" />
+      <file href="mobile/5byBXdy3NtJ_FFFFFF_80_DX1432_DY1432_CX550_CY366.png" />
+      <file href="mobile/5sJEhDLN7XD_FFFFFF_80_DX1110_DY1110_CX550_CY365.png" />
+      <file href="mobile/5ZpVXpDfodh_80_P_69_75_471_273_DX1250_DY1250_CX471_CY274.png" />
+      <file href="mobile/5byBXdy3NtJ_80_DX1432_DY1432_CX718_CY478.png" />
+      <file href="mobile/5sJEhDLN7XD_FFFFFF_80_DX1110_DY1110_CX712_CY472.png" />
+      <file href="mobile/6Kp6A4t0W0M_80_P_37_0_404_461_DX996_DY996_CX404_CY462.png" />
+      <file href="mobile/5jx439NuJ0c_80_P_316_291_544_309_DX1858_DY1858_CX545_CY309.png" />
+      <file href="mobile/6Kp6A4t0W0M_80_P_0_0_441_461_DX996_DY996_CX442_CY462.png" />
+      <file href="mobile/6Kp6A4t0W0M_80_RG_P_0_0_333_230_DX996_DY996_CX334_CY231.png" />
+      <file href="mobile/5byBXdy3NtJ_80_DX1432_DY1432_CX553_CY368.png" />
+      <file href="mobile/6JbYNTNX2uc_80_DX784_DY784_CX614_CY410.jpg" />
+      <file href="mobile/5byBXdy3NtJ_80_P_113_0_604_478_DX1432_DY1432_CX465_CY368.png" />
+      <file href="mobile/6JbYNTNX2uc_80_DX782_DY782_CX298_CY199.jpg" />
+      <file href="mobile/5eQt0z466cT_FEFFFE_80_P_0_40_496_395_DX1440_DY1440_CX497_CY396.png" />
+      <file href="mobile/6mQNNjpxJQN_80_P_0_110_1100_304_DX1440_DY1440_CX1100_CY304.png" />
+      <file href="mobile/6UpDvtPle21_80_P_0_116_493_256_DX1500_DY1500_CX494_CY256.png" />
+      <file href="mobile/6UpDvtPle21_80_P_505_134_244_229_DX1500_DY1500_CX245_CY229.png" />
+      <file href="mobile/6UpDvtPle21_80_P_251_135_239_226_DX1500_DY1500_CX240_CY226.png" />
+      <file href="mobile/6UpDvtPle21_80_P_0_133_240_230_DX1500_DY1500_CX241_CY230.png" />
+      <file href="mobile/6ad0TFkaQIQ_80_DX920_DY920_CX460_CY339.jpg" />
+      <file href="mobile/6b27DQiJlcz_80_DX414_DY414_CX207_CY176.jpg" />
+      <file href="mobile/6O1d7W9ZIg3_80_DX310_DY310_CX155_CY137.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape63hR69b2GFh.png" />
+      <file href="mobile/txt__default_5W6XFIuRHnp.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aY5ge9Hqvh.js" />
+      <file href="html5/data/js/5cdPKp8SsbE.js" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5dDyV3E71JH.js" />
+      <file href="html5/data/js/5e3wpQwY0vw.js" />
+      <file href="html5/data/js/5fPzhIXOzMl.js" />
+      <file href="html5/data/js/5kfSDt8SExM.js" />
+      <file href="html5/data/js/5lVp33VzY50.js" />
+      <file href="html5/data/js/5mH7TmbUb7j.js" />
+      <file href="html5/data/js/5ngghM27twf.js" />
+      <file href="html5/data/js/5ons9N6tOMy.js" />
+      <file href="html5/data/js/5rNarGmFtxe.js" />
+      <file href="html5/data/js/5tMot7vLGmQ.js" />
+      <file href="html5/data/js/5u9rP38OlgP.js" />
+      <file href="html5/data/js/5vXNRaiYegU.js" />
+      <file href="html5/data/js/5zjQzBWxJz6.js" />
+      <file href="html5/data/js/63BhSFcdamg.js" />
+      <file href="html5/data/js/67IHeHUNOZg.js" />
+      <file href="html5/data/js/6AT3YcA7UKC.js" />
+      <file href="html5/data/js/6BIuyJULAcF.js" />
+      <file href="html5/data/js/6bufyQeNH41.js" />
+      <file href="html5/data/js/6CtIkG3L5Ts.js" />
+      <file href="html5/data/js/6ESOR6SPceU.js" />
+      <file href="html5/data/js/6fC4TiOphjJ.js" />
+      <file href="html5/data/js/6GuUrYRXkFX.js" />
+      <file href="html5/data/js/6IrUdVVUzSY.js" />
+      <file href="html5/data/js/6isMxAB1M8Q.js" />
+      <file href="html5/data/js/6kb7wYuNDKC.js" />
+      <file href="html5/data/js/6kzjjwXJbRq.js" />
+      <file href="html5/data/js/6lT9k1Gpdvk.js" />
+      <file href="html5/data/js/6lUFsCba6za.js" />
+      <file href="html5/data/js/6Rfr2O7BRCb.js" />
+      <file href="html5/data/js/6UnDqJzhPcP.js" />
+      <file href="html5/data/js/6WF1zRNvkaQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
